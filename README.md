@@ -11,6 +11,6 @@ Technologies used: Html, Css, Javascript, Jquery, JSON, Ajax
 
 Ideas for Future Improvement: 1.Another Search Engine may be made which displays multiple images when any search has been made.
 
-The html page can include more images and different background color to make it more appealing.
+2.The html page can include more images and different background color to make it more appealing.
 
-It can be diversified for a wider range of age group of people.
+3.It can be diversified for a wider range of age group of people.
